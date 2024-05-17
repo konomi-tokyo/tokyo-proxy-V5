@@ -19,7 +19,7 @@
 
 ３，「new＋」を押して「Web Service」を押す
 
-４、Public Git repositoryの枠に「https://github.com/konomi-tokyo/tokyo-proxy-V2.git
+４、Public Git repositoryの枠に「https://github.com/konomi-tokyo/tokyo-proxy-V5.git
 」を入れる
 
 ５、ドメイン名を決めて　「Create Web Service」　を押す
@@ -37,7 +37,7 @@
 
 3, Click "new+" and click "Web Service"
 
-4, Enter “https://github.com/konomi-tokyo/tokyo-proxy-V2.git
+4, Enter “https://github.com/konomi-tokyo/tokyo-proxy-V5.git
 ” in the Public Git repository frame
 
 5, Decide on a domain name and press “Create Web Service"
@@ -63,7 +63,7 @@
 
   ２、Import repositoryを押す
 
-  ３、GitHub Repository URLの場所にhttps://github.com/konomi-tokyo/tokyo-proxy-V2.git
+  ３、GitHub Repository URLの場所にhttps://github.com/konomi-tokyo/tokyo-proxy-V5.git
   を入力し、importを押す
 
   ４、Fork repositoryを押す
@@ -79,7 +79,7 @@
 
 2, Press "Import repository"
 
-3, Enter https://github.com/konomi-tokyo/tokyo-proxy-V2.git
+3, Enter https://github.com/konomi-tokyo/tokyo-proxy-V5.git
 in the "GitHub Repository URL" location and press
 　 import.
 
